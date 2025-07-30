@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1097417611151",
+    "project_id": "salonbilling-278a3",
+    "storage_bucket": "salonbilling-278a3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097417611151:android:76565335baf47b9ab15dfa",
+        "android_client_info": {
+          "package_name": "com.salon.billingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwoZ-PVQz3JQFS902PFvp4yiqLmGfT9AY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
